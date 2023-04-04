@@ -1,0 +1,14 @@
+2023.04.04 21:54:55 INFO  Started: Metals version 0.11.11 in workspace 'C:\Users\김성록\OneDrive - UNIST\python-practice' for client Visual Studio Code 1.77.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/%ea%b9%80%ec%84%b1%eb%a1%9d/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.04 21:54:56 INFO  time: initialize in 0.77s
+2023.04.04 21:54:58 WARN  Build server is not auto-connectable.
+2023.04.04 21:54:58 WARN  no build tool detected in workspace 'C:\Users\김성록\OneDrive - UNIST\python-practice'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+4월 05, 2023 2:06:21 오전 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+정보: Unsupported notification method: $/setTrace
+2023.04.05 02:11:45 INFO  Shutting down server
+2023.04.05 02:11:45 INFO  shutting down Metals
