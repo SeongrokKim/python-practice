@@ -28,4 +28,5 @@ def solution(line):
         res[maxr-y][x-minc] = '*'
     answer = [''.join(s) for s in res]
           
+
     return answer
