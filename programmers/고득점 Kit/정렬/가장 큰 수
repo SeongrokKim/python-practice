@@ -1,0 +1,11 @@
+def solution(numbers):
+    answer = ''
+    strnum = []
+    for num in numbers:
+        strnum.append(str(num))
+    sortStrNum = sorted(strnum, key=lambda x: (x*4)[:4], reverse=True)
+    for n in sortStrNum:
+        answer += n
+    if answer[0]=='0':
+        return '0'
+    return answer
